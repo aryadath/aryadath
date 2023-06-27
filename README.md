@@ -8,7 +8,6 @@ After finishing the highly intensive 12-week boot camp, I was aware of how much 
 - I am currently making a Twitter clone but this time using a MERN stack, since I made my first clone in the very first few weeks of the Makers course I plan to implement new knowledge and new features.
 - Currently working through Codewars to improve my coding skills.
 
-## Github Analytics
 
 ## Projects
 
