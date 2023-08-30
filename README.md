@@ -1,5 +1,4 @@
 # Arya Sunildath
-[About me](Aboutme) | [Current Projects](CurrentProjects) | [Skills](Skills) | [Projects](Projects) | [Education](Education) | [Contact](Contact)
 
 ## About me
 After finishing the highly intensive 12-week boot camp, I was aware of how much I could truly achieve in such a small amount of time, I had the opportunity to develop many projects such as 'Chitter' a Twitter clone, a 'tech for good' app called 'Foodshare' and many more. Aside from projects I was also introduced to agile practices and which I was able to use alongside my peers in group projects.
