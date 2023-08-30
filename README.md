@@ -18,8 +18,9 @@ After finishing the highly intensive 12-week boot camp, I was aware of how much 
 | Foodshare     |  MERN stack 'tech for good' app       | Mongoose, Express, React, Node, Javascript, CSS, bootstrap     | Jest, Cypress    |
 
 ### Smaller Projects
-| Project | Description |
-| Weather App| Weather App that uses OpenWeather and GeoDB API |
+| Project      | Description                                  |
+|--------------|----------------------------------------------|
+| [Weather App](https://github.com/aryadath/react-weather-app)  | Weather App using OpenWeather and GeoDB API |
 
 
 ## Education
