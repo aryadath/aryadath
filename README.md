@@ -15,7 +15,7 @@ After finishing the highly intensive 12-week boot camp, I was aware of how much 
 |---------------|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|----------------------|
 | Chitter | A lightweight clone twitter | Ruby, Sinatra, HTML, Postgres, CSS  | RSpec, Capybara      |
 | Moangoose     | A MERN stack social media app      | Mongoose, Express, React, Node, Javascript, CSS     | Jest, Cypress    |
-| [Foodshare](https://github.com/maddc0de/foodshare)     |  MERN stack 'tech for good' app       | Mongoose, Express, React, Node, Javascript, CSS, bootstrap     | Jest, Cypress    |
+| [Foodshare](https://github.com/maddc0de/foodshare)  |  MERN stack 'tech for good' app       | Mongoose, Express, React, Node, Javascript, CSS, bootstrap     | Jest, Cypress    |
 
 ### Smaller Projects
 | Project      | Description                                  |
