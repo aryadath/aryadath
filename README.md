@@ -38,4 +38,3 @@ After finishing the highly intensive 12-week boot camp, I was aware of how much 
 - LinkedIn: https://www.linkedin.com/in/arya-sunildath-b117351bb/
 - Email: aryadath@gmail.com
 - Github: aryadath
-- Codewars: https://www.codewars.com/users/aryadath
